@@ -1,3 +1,13 @@
 body {
-    background: blue;
+  background: rgb(255, 255, 255);
   }
+* {
+  text-align: center;
+  color: rgb(0, 0, 8);
+  }
+a {
+  color:rgb(53, 84, 131)
+}
+.button {
+  color:rgb(0, 0, 0)
+}
