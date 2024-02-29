@@ -1,13 +1,29 @@
 body {
   background: rgb(255, 255, 255);
-  }
-* {
+  background-image: url(./images/space-background.jpg);
+  max-width: 650px;
+  margin: auto;
   text-align: center;
-  color: rgb(0, 0, 8);
+  color: rgb(251, 251, 253);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  
   }
 a {
-  color:rgb(53, 84, 131)
+  color:rgb(42, 122, 243)
 }
 .button {
-  color:rgb(0, 0, 0)
+  color:rgb(251, 250, 250)
+}
+.box {
+  width: 200px;
+  height: 100px;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+}
+h1 {
+  font-size: 70px
+}
+h2 {
+  font-size: 30px
 }
