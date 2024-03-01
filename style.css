@@ -5,7 +5,7 @@ body {
   margin: auto;
   text-align: center;
   color: rgb(0, 0, 0);
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 
 a {
@@ -24,10 +24,10 @@ a {
 #topheader {
   background: #ffffff;
   opacity: 50%;
-  margin-block-start: 10px;
+  margin-block-start: 60px;
   margin-block-end: 10px;
-  margin-inline-start: 10px;
-  margin-inline-end: 10px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
   padding-top: 20px;
   padding-bottom: 20px;
   padding-left: 20px;
@@ -36,10 +36,10 @@ a {
 #topdesc {
   background: #ffffff;
   opacity: 50%;
-  margin-block-start: 10px;
+  margin-block-start: 60px;
   margin-block-end: 10px;
-  margin-inline-start: 10px;
-  margin-inline-end: 10px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
   padding-top: 30px;
   padding-bottom: 30px;
   padding-left: 40px;
