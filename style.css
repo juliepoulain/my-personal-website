@@ -1,5 +1,5 @@
 body {
-  background: rgb(13, 33, 72);
+  background: rgb(72, 37, 13);
   background-image: url(https://raw.githubusercontent.com/juliepoulain/my-personal-website/main/Images/coffee2.jpg);
   max-width: 700px;
   margin: auto;
@@ -9,12 +9,24 @@ body {
   }
 
 a {
-  color:rgb(19, 87, 190);
+  color:rgb(12, 54, 116);
   font-weight: bold
 }
 .button {
-  color:rgb(19, 87, 190)
+  background-color: rgb(86, 15, 109);
+  border: none;
+  color: white;
+  padding: 15px 22px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  opacity: 95%;
+  margin-block-start: 10px;
+  margin-block-end: 60px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
 }
+
 #toptitle {
   font-size: 65px;
 }
@@ -23,26 +35,20 @@ a {
 }
 #topheader {
   background: #ffffff;
-  opacity: 65%;
+  opacity: 70%;
   margin-block-start: 60px;
   margin-block-end: 10px;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 20px;
-  padding-right: 20px
+  padding: 20px 20px
 }
 #topdesc {
   background: #ffffff;
-  opacity: 65%;
+  opacity: 70%;
   margin-block-start: 60px;
-  margin-block-end: 10px;
+  margin-block-end: 40px;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding: 30px 40px;
   font-size: 13px
 }
