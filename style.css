@@ -1,5 +1,5 @@
 body {
-  background: rgb(255, 255, 255);
+  background: rgb(13, 33, 72);
   background-image: url(https://raw.githubusercontent.com/juliepoulain/my-personal-website/main/Images/space-background.jpg);
   max-width: 650px;
   margin: auto;
@@ -21,8 +21,8 @@ a {
 #subtitle {
   font-size: 35px;
 }
-#topdesc {
-  background: #fbfdfd;
+#topheader {
+  background: #ffffff;
   opacity: 50%;
   margin-block-start: 10px;
   margin-block-end: 10px;
@@ -33,16 +33,16 @@ a {
   padding-left: 20px;
   padding-right: 20px
 }
-
-#topheader {
-  background: #fbfdfd;
+#topdesc {
+  background: #ffffff;
   opacity: 50%;
   margin-block-start: 10px;
   margin-block-end: 10px;
   margin-inline-start: 10px;
   margin-inline-end: 10px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 20px;
-  padding-right: 20px
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-size: 13px
 }
